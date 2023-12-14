@@ -16,7 +16,7 @@ Welcome to the News Aggregator API project! This repository contains the impleme
 
 To run the application, ensure Node.js is installed on your machine.
 
-- Clone the repository: git clone https://github.com/eshward95/airtribe-news-aggregator.git
+- Clone the repository: git clone https://github.com/piyushtalele-6491/Airtrivbe-newsaggrigator-api/edit/main/Readme.md
 - Install dependencies: npm install
 - Start the server: node src/server.js
   The application should be running at http://localhost:3001.
